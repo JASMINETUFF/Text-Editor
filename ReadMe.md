@@ -1,5 +1,5 @@
 # Text Editor
-  ![Demo Picture](https://github.com/JASMINETUFF/Text-Editor/blob/90d801bd62504e6ddabcce3cefc20f1ea3a0bae5/demopic.png)
+  ![Demo Picture](https://github.com/JASMINETUFF/Text-Editor/blob/d24a5137f53f014e3711013988a92bdb4df29f6c/demopic.png)
 
   ## Description
   
