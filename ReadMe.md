@@ -29,7 +29,7 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at jrsmxdev@gmail.com. You can find more of my work at [jasminetuff](https://github.com/jasminetuff/).
+  If you have any questions about the repo, open an issue or contact me directly at jrsmxdev@gmail.com. You can find more of my work repositories on [github](https://github.com/jasminetuff/) or view my online portfolio [here!](https://jasminetuff.github.io/Portfolio/Index.html).
 
   ## Demo
 
